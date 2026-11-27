@@ -4,15 +4,16 @@
 
 Welcome to my engineering analysis portfolio.
 
-I am a Mechanical Engineering graduate interested in advanced engineering simulation, computational mechanics and analysis applications across Aerospace, Marine and Oil & Gas industries.
+I am a Mechanical Engineering graduate having Expertise in advanced engineering simulation, computational mechanics, Vibration Dynamics and analysis applications across Aerospace, Marine and Oil & Gas Sectors.
 
 ## Technical Skills
 
 - Structural Analysis: ANSYS Mechanical, FEA
 - Computational Fluid Dynamics: ANSYS Fluent, OpenFOAM
 - Pre-processing: HyperMesh
-- Programming: Python, NumPy, SciPy
+- Programming: Python, NumPy, SciPy, MATLAB
 - Engineering Fundamentals: Solid Mechanics, Fluid Mechanics, Heat Transfer, Numerical Methods
+- Fatigue Analysis: nCode Design
 
 ## Engineering Projects
 
